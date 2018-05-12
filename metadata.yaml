@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '32903'
     url: http://www.gutenberg.org/2009/agents/32903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27776#The-MethodistA-Poem
 gutenberg_issued: '2009-01-11'
 gutenberg_type: Text
 identifiers:
